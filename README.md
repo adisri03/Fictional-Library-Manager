@@ -1,7 +1,5 @@
 # Fictional-Library-Manager
 
-# Fictional Library Manager
-
 ![Java](https://img.shields.io/badge/Java-8%2B-blue)
 
 A Java program for managing a fictional library's book repository and return stack. This project allows library staff and users to digitize bookkeeping, check in/out books, track late returns, and more.
