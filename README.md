@@ -43,7 +43,7 @@ This Java program is designed for a fictional library to digitize its bookkeepin
     java LibraryManager
 6. Follow the on-screen menu to interact with the Fictional Library Manager.
 
-#Usage
+# Usage
 Use the provided menu options to manage the book repository and return stack.
 Follow the prompts to add, remove, check in/out books, and more.
 
